@@ -1,0 +1,6 @@
+{
+  "host": "test.lan",
+  "path": "/rest/v1",
+  "key": "abc",
+  "endpoints": ["one", "two"]
+}

@@ -1,0 +1,14 @@
+{
+  "baseDir": "/home/diego/work/development/script-utils",
+  "persistentDataFile": "/store/persistent.json",
+  "configFiles": [
+    "/store/apiConnection.json",
+    "/store/messages.json"
+  ],
+  "logs": {
+    "maxFiles": 5,
+    "maxMB": 10,
+    "error": "/logs/error",
+    "info": "/logs/info"
+  }
+}
