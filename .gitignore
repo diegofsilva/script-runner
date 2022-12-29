@@ -1,0 +1,5 @@
+/node_modules
+/dist
+/persistent-data
+/configs
+/logs
